@@ -16,4 +16,3 @@ Ritik-Dethliya/Ritik-Dethliya is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" width='400'/>
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="coding animation"/>
