@@ -34,12 +34,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/>
 </p>
-## Plugins
+
 ## 🔌 Plugins & API Integrations
 
 <p align="center">
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="60"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-qr-code-technology-flatart-icons-outline-flatarticons.png" alt="html5-qrcode" width="60"/>
   <img src="https://img.shields.io/badge/Gemini%20API-AI%20Integration-blueviolet?style=for-the-badge&logo=google" alt="Gemini API"/>
+  <p>HTML5QrReader</p>
 </p>
