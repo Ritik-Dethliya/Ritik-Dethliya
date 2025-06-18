@@ -3,6 +3,7 @@ Socket.io, HTML5, and Tailwind CSS. Skilled in building scalable web application
 solutions. Strong problem solver with a collaborative approach and commitment to delivering high
 quality user experiences.
 
+## About Me
 - 👋 Hi, I’m @Ritik-Dethliya
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning Mern stack
