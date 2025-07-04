@@ -8,7 +8,8 @@ quality user experiences.
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me on dethliya73@gmail.com 
+- 📫 reach me on dethliya73@gmail.com
+- 📄 [My Resume](https://drive.google.com/file/d/1R5tknm3m3MIAneRxIPtiyQLur1k8ZJBR/view?usp=sharing) 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
