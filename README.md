@@ -10,8 +10,8 @@ quality user experiences.
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on dethliya73@gmail.com
 - 📄 <a href="https://drive.google.com/file/d/1R5tknm3m3MIAneRxIPtiyQLur1k8ZJBR/view" target="_blank">Resume</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I love turning complex ideas into simple, interactive UIs — and I enjoy building apps that solve real-world problems!
 
 <!---
 Ritik-Dethliya/Ritik-Dethliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
