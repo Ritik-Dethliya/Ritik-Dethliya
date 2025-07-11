@@ -9,7 +9,7 @@ quality user experiences.
 - 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on dethliya73@gmail.com
-- 📄 <a href="https://drive.google.com/file/d/1R5tknm3m3MIAneRxIPtiyQLur1k8ZJBR/view" target="_blank">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1Mr3l64a7AzrpOmSV8kJCVzWI17KxF_1O/view?usp=drive_link" target="_blank">Resume</a>
 - <a href="https://ritik-dethliya.github.io/" target="_blank">Portfolio</a>
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I love turning complex ideas into simple, interactive UIs — and I enjoy building apps that solve real-world problems!
